@@ -1,2 +1,1 @@
-# pixara
-Community Art
+README
